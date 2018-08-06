@@ -26,6 +26,7 @@ The correct sequence of steps for Macarena are:
 5. "Place your right hand on your left shoulder."
 6. "Place your left hand on your right shoulder."
 7. "Bring your right hand up and around to the back of your head."
+
 8. "Bring your left hand up and around to the back your head."
 ```
 
@@ -45,3 +46,4 @@ Finished in 0.02589 seconds (files took 0.31186 seconds to load)
 ```
 
 That's telling you that Step 2 in `macarena.rb` is currently broken. Can you figure out the fix based on the error message above?
+step_2= "Left arm out in front of you, palm facing"
