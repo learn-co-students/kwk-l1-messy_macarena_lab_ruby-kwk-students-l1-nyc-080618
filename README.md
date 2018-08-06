@@ -45,3 +45,5 @@ Finished in 0.02589 seconds (files took 0.31186 seconds to load)
 ```
 
 That's telling you that Step 2 in `macarena.rb` is currently broken. Can you figure out the fix based on the error message above?
+puts "Right arm out in front of you, palm facing down"
+puts 
